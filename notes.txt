@@ -1,0 +1,6 @@
+Day 1: Git is like a time machine for files.
+GitHub is where those snapshots live in the cloud.
+Git keeps a history of changes, making it easier to collaborate and recover earlier versions.
+
+Day 1: Git is like a time machine for files.
+GitHub is where those snapshots live in the cloud.
